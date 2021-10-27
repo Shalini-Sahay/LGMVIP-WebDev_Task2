@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+#LGMVIP-WebDev_Task2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web application created using create-react-app
 
 ## Available Scripts
 
